@@ -1,0 +1,8 @@
+[user]
+	signingkey = 1AFA50413A5EAC84
+	name = AAAlex-123
+	email = alexmandelias@gmail.com
+[commit]
+	gpgsign = true
+[gpg]
+	program = C:\\Users\\alexm\\program_files\\GnuPG\\bin\\gpg.exe
